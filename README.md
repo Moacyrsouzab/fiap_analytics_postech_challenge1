@@ -36,7 +36,7 @@ O dataset pode ser acessado aqui (https://www.kaggle.com/datasets/olistbr/brazil
 ## 📥 Como reproduzir a análise
 
 ### 1. Baixe o dataset
-O dataset não é versionado neste repositório (~50 MB). Faça o download diretamente do Kaggle:
+Download diretamente do Kaggle:
 
 🔗 [Brazilian E-Commerce Public Dataset by Olist — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
@@ -54,17 +54,16 @@ data/
 ```
 
 ### 2. Execute o notebook
-Abra `notebook/TECH_CHALLENGE.ipynb` no Google Colab ou Jupyter e execute as células sequencialmente.
+Abra `notebook/tech_challenge.ipynb` no Google Colab ou Jupyter e execute as células sequencialmente.
 
 ```bash
 # Ou via terminal com Jupyter
-jupyter notebook notebook/TECH_CHALLENGE.ipynb
+jupyter notebook notebook/tech_challenge.ipynb
 ```
 
 ### 3. Consulte os entregáveis
 - **Relatório executivo** em `relatorio/`
-- **Slides** em `apresentacao/`
-- **Roteiro do vídeo** em `roteiro/`
+- **Painel em PowerBI** em `apresentacao/`
 
 ---
 
