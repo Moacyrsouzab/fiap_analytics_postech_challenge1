@@ -2,7 +2,7 @@
 
 > **TECH CHALLENGE 1 - Data Analytics** > Universidade FIAP - 2026
 
-![PowerBI](https://img.shields.io/badge/PowerBI%20-blue)
+![PowerBI](https://img.shields.io/badge/Python%20-blue)
 ![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
@@ -30,6 +30,41 @@ O dataset pode ser acessado aqui (https://www.kaggle.com/datasets/olistbr/brazil
 - **sellers**: seller_id, zip_code_prefix, cidade, estado  
 - **geolocation**: zip_code_prefix, latitude, longitude, cidade, estado  
 - **category_translation**: tradução de nomes de categorias para inglês
+
+---
+
+## 📥 Como reproduzir a análise
+
+### 1. Baixe o dataset
+O dataset não é versionado neste repositório (~50 MB). Faça o download diretamente do Kaggle:
+
+🔗 [Brazilian E-Commerce Public Dataset by Olist — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+Após baixar, extraia os arquivos CSV na pasta `data/`. Os arquivos esperados são:
+
+```
+data/
+├── olist_orders_dataset.csv
+├── olist_customers_dataset.csv
+├── olist_order_items_dataset.csv
+├── olist_order_payments_dataset.csv
+├── olist_order_reviews_dataset.csv
+├── olist_products_dataset.csv
+└── olist_sellers_dataset.csv
+```
+
+### 2. Execute o notebook
+Abra `notebook/TECH_CHALLENGE.ipynb` no Google Colab ou Jupyter e execute as células sequencialmente.
+
+```bash
+# Ou via terminal com Jupyter
+jupyter notebook notebook/TECH_CHALLENGE.ipynb
+```
+
+### 3. Consulte os entregáveis
+- **Relatório executivo** em `relatorio/`
+- **Slides** em `apresentacao/`
+- **Roteiro do vídeo** em `roteiro/`
 
 ---
 
