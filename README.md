@@ -40,7 +40,7 @@ Download diretamente do Kaggle:
 
 🔗 [Brazilian E-Commerce Public Dataset by Olist — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-Após baixar, extraia os arquivos CSV na pasta `data/`. Os arquivos esperados são:
+Após baixar, extraia os arquivos CSV na pasta `dataset/`. Os arquivos esperados são:
 
 ```
 data/
