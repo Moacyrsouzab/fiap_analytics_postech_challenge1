@@ -23,7 +23,7 @@ O dataset pode ser acessado aqui (https://www.kaggle.com/datasets/olistbr/brazil
 **Formato**: CSV  
 **Total de tabelas**: 8
 
-## Estrutura dos Dados e Dicionário (visão executiva)
+## 🔎 Estrutura dos Dados e Dicionário
 
 | Tabela | Descrição | Registros |
 |--------|-----------|-----------|
