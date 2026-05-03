@@ -60,11 +60,11 @@ data/
 ```
 
 ### 2. Execute o notebook
-Abra `notebook/tech_challenge.ipynb` no Google Colab ou Jupyter e execute as células sequencialmente.
+Abra `notebook/TechChallenge1_Datanalytics_Postech_FIAP.ipynb` no Google Colab ou Jupyter e execute as células sequencialmente.
 
 ```bash
 # Ou via terminal com Jupyter
-jupyter notebook notebook/tech_challenge.ipynb
+jupyter notebook notebook/TechChallenge1_Datanalytics_Postech_FIAP.ipynb
 ```
 ---
 
