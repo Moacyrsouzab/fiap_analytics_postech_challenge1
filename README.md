@@ -66,10 +66,31 @@ Abra `notebook/tech_challenge.ipynb` no Google Colab ou Jupyter e execute as cé
 # Ou via terminal com Jupyter
 jupyter notebook notebook/tech_challenge.ipynb
 ```
+---
 
-### 3. Consulte os entregáveis
-- **Relatório executivo** em `relatorio/`
-- **Painel em PowerBI** em `apresentacao/`
+## 📊 Principais Insights
+- Crescimento consistente de receita entre 2016–2018.  
+- Dependência de poucos sellers e regiões (SP concentra maior parte da receita).  
+- Logística crítica em estados do Norte, impactando satisfação.  
+- Baixa taxa de recompra (3,12%), indicando necessidade de fidelização.  
+- Preferência cultural pelo parcelamento no cartão de crédito.  
+- Polarização das avaliações (muitos 5, mas também muitos 1).  
+
+---
+
+## 📌 Entregáveis
+- Relatório executivo em formato ABNT.  
+- Notebook completo, comentado e organizado trilha por trilha.  
+- Slides executivos com storytelling e gráficos principais.  
+- Vídeo executivo (até 5 min).  
+- Documentação dos dados (premissas, qualidade, reprodutibilidade).  
+
+---
+
+## 📚 Referências
+- Olist Dataset – Brazilian E-Commerce Public Dataset by Olist.  
+- Relatórios de mercado de e-commerce no Brasil (2016–2018).  
+- Estudos sobre comportamento de consumo e parcelamento no Brasil.  
 
 ---
 
