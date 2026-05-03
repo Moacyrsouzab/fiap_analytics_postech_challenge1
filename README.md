@@ -2,8 +2,8 @@
 
 > **TECH CHALLENGE 1 - Data Analytics** > Universidade FIAP - 2026
 
-![PowerBI](https://img.shields.io/badge/Python%20-blue)
-![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow)
+![Python](https://img.shields.io/badge/Python%20-blue)
+![Status](https://img.shields.io/badge/Status-Concluído-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📌 Sobre o Projeto
@@ -79,15 +79,15 @@ jupyter notebook notebook/tech_challenge.ipynb
 ---
 
 ## 📌 Entregáveis
+
 - Relatório executivo em formato ABNT.  
 - Notebook completo, comentado e organizado trilha por trilha.  
-- Slides executivos com storytelling e gráficos principais.  
-- Vídeo executivo (até 5 min).  
 - Documentação dos dados (premissas, qualidade, reprodutibilidade).  
 
 ---
 
 ## 📚 Referências
+
 - Olist Dataset – Brazilian E-Commerce Public Dataset by Olist.  
 - Relatórios de mercado de e-commerce no Brasil (2016–2018).  
 - Estudos sobre comportamento de consumo e parcelamento no Brasil.  
