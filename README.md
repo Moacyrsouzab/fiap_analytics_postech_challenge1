@@ -80,7 +80,8 @@ jupyter notebook notebook/TechChallenge1_Datanalytics_Postech_FIAP.ipynb
 
 ## 📌 Entregáveis
 
-- Relatório executivo em formato ABNT.  
+- Relatório executivo em formato ABNT.
+- Apresentação executiva com principais análises e destaques.
 - Notebook completo, comentado e organizado trilha por trilha.  
 - Documentação dos dados (premissas, qualidade, reprodutibilidade).  
 
