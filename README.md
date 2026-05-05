@@ -2,7 +2,7 @@
 
 > **TECH CHALLENGE 1 - Data Analytics** > Universidade FIAP - 2026
 
-![Python](https://img.shields.io/badge/Python%20-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter%20-orange)
 ![Status](https://img.shields.io/badge/Status-Concluído-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
